@@ -3,7 +3,7 @@
 | armani-jb-oss | Redmi 1S | Android JB | LNX.LA.3.2-09720-8x26.0 | [armani-jb-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/armani-jb-oss) |
 | armani-kk-oss | Redmi 1S, Redmi Note Single SIM | Android KK | LNX.LA.3.5.2.2.2-00510-8x26.0 | [armani-kk-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/armani-kk-oss) |
 | cancro-m-oss | Mi 3, Mi 4, Mi Note | Android M | LA.BF.1.1.3-01310-8x74.0 | [cancro-m-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cancro-m-oss) |
-| cactus-o-oss | Redmi 6A, Redmi 6 | Android O | MTK | [cactus-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cactus-o-oss) |
+| cactus-o-oss (Patching) | Redmi 6A, Redmi 6 | Android O | MTK | [cactus-o-oss] (https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cactus-o-oss) |
 | cancro-kk-oss | Mi 3, Mi 4, Mi Note | Android KK | LNX.LA.3.5.2.2.1-04310-8x74.0 | [cancro-kk-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cancro-kk-oss) |
 | cappu-n-oss | Mi Pad 3 | Android N | MTK | [cappu-n-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cappu-n-oss) |
 | clover-o-oss | Mi Pad 4 | Android O | LA.UM.6.2.r1-08100-sdm660.0 | [clover-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/clover-o-oss) |
@@ -26,6 +26,7 @@
 | latte-l-oss | Mi Pad 2 | Android L | imin.cht_rvp.a51.20150519-2015_ww20_b | [latte-l-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/latte-l-oss) |
 | libra-l-oss | Mi 4S, Mi 4C, Mi Note Pro | Android L | LA.BF64.1.2.1.c1-05310-8x92.0 | [libra-l-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/libra-l-oss) |
 | libra-n-oss | Mi 4S, Mi 4C, Mi Note Pro | Android N | LA.BF64.1.2.3-01110-8x94.0 | [libra-n-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/libra-n-oss) |
+| lotus-o-oss | Mi Play | Android O | MTK | [lotus-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/lotus-o-oss) |
 | markw-m-oss | Redmi 4 Premium | Android M | LA.UM.5.3-03710-89xx.0 | [markw-m-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/markw-m-oss) |
 | mi1_kernel | Mi 1 | Android ICS | M8260AAABQNLZA313065 | [mi1_kernel](https://github.com/MiCode/mi1_kernel) |
 | mi2_kernel | Mi 2, Mi 2A, Mi 2S | Android KK | A8064AAAAANLYA103051 | [mi2_kernel](https://github.com/MiCode/mi2_kernel) |
