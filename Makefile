@@ -1,8 +1,8 @@
 VERSION = 4
 PATCHLEVEL = 9
 SUBLEVEL = 77
-EXTRAVERSION =
-NAME = Roaring Lionus
+EXTRAVERSION = XenoexKernelProjects-1902
+NAME = Redmi Cereus
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
